@@ -13,9 +13,9 @@
 
   body {
     background: #fff;
-    font-family: 'Lato', sans-serif;
+    font-family: 'book antiqua', sans-serif;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 22px;
     color: #000;
   }
@@ -32,7 +32,7 @@
   a:hover {
     outline: none;
     text-decoration:none;
-    color:#4fcccd;
+    color:#ff3737;
   }
 
   a:focus {
@@ -53,7 +53,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Optima', sans-serif;
     font-weight: 300;
   }
 
@@ -80,9 +80,9 @@
 
   .btn-common {
     font-size: 14px;
-    color: #0099ae;
+    color: #ff3737;
     border: 1px solid #0099ae;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'book antiqua', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
   }
@@ -226,23 +226,23 @@
 }
 
 .social-icons ul li a:hover .fa-facebook {
-  color:#0884d5;
+  color:#ff3737;
 }
 
-.social-icons ul li a:hover .fa-twitter {
-  color:#2AA7DC;
+.social-icons ul li a:hover .fa-behance-square {
+  color:#ff3737;
 }
 
-.social-icons ul li a:hover .fa-google-plus {
-  color:#A22523;
+.social-icons ul li a:hover .fa-instagram {
+  color:#ff3737;
 }
 
-.social-icons ul li a:hover .fa-dribbble {
-  color:#E94989;
+.social-icons ul li a:hover .fa-vimeo-square {
+  color:#ff3737;
 }
 
-.social-icons ul li a:hover .fa-linkedin {
-  color:#006DC0;
+.social-icons ul li a:hover .fa-linkedin-square {
+  color:#ff3737;
 }
 
 .social-icons ul li a:hover,
@@ -254,6 +254,7 @@
   background: #fff;
   border: 0;
   margin-bottom: 0;
+  font-family: 'optima', sans-serif;
 }
 
 #header .navbar-toggle{
@@ -276,7 +277,7 @@
 
 #header .navbar-nav.navbar-right >li a {
   color: #000;
-  font-size: 12px;
+  font-size: 20px;
   padding: 20px;
   text-transform: uppercase;
   font-weight: 300;
@@ -289,11 +290,11 @@
 .navbar-inverse .navbar-nav > .open > a {
   background-color: inherit;
   border: 0;
-  color: #00aeef;
+  color: #ff3737;
 }
 
 #header .navbar-inverse .navbar-nav  li a:hover{
-  color: #00aeef;
+  color: #ff3737;
 }
 
 
@@ -449,7 +450,7 @@ ul.sub-menu {
   content: '"';
   font-size: 40px;
   color: #ea2c00;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'book antiqua', sans-serif;
   transform:rotate(180deg);
   -ms-transform:rotate(180deg); /* IE 9 */
   -webkit-transform: rotate(180deg); /* Opera, Chrome, and Safari */
@@ -463,7 +464,7 @@ ul.sub-menu {
   content: '"';
   font-size: 40px;
   color: #ea2c00;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'book antiqua', sans-serif;
   line-height: 0;
 }
 
@@ -857,7 +858,7 @@ ul.sub-menu {
 }
 
 .social-profile .nav-pills li a:hover {
-  color: #702340;
+  color: #ff3737;
   border-color: #702340;
 }
 
@@ -936,7 +937,7 @@ h3.top-zero{
 }
 
 .single-skill h3{
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .progress{
@@ -1072,7 +1073,7 @@ ul.elements li > i{
 }
 
 .portfolio-view .nav-pills li a:hover {
-  color: #702340;
+  color: #ff3737;
   border-color: #702340;
   -webkit-transition: all 0.9s ease;
   transition: all 0.9s ease;
@@ -1496,7 +1497,7 @@ Blog Default
 
 .single-blog.timeline {
   background: #FFFFFF;
-  border: 1px solid #EEEEEE;
+  border: 1px solid #ff3737;
   border-bottom: 0;
   position: relative;
   padding-bottom: 0;
@@ -1549,7 +1550,7 @@ Blog Default
   border-style: solid;
   border-width: 60px;
   content: "";
-  border-color: transparent transparent #0884d5 transparent;
+  border-color: transparent transparent #ff3737 transparent;
   z-index: -1;
   cursor: initial;
 }
@@ -1580,7 +1581,7 @@ Blog Default
   border-left-style: solid;
   border-left-width: 1px;
   height: 100%;
-  border-left-color: #0099AE;
+  border-left-color: #ff3737;
   left: 50%;
   margin-left: -2px;
 }
@@ -2463,7 +2464,7 @@ span.stButton_gradient,
   margin-top: 50px;
   padding: 25px 53px;
   text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'book antiqua', sans-serif;
 }
 
 .btn-error:hover, .btn-error:focus  {
