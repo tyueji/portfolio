@@ -81,7 +81,7 @@
   .btn-common {
     font-size: 14px;
     color: #ff3737;
-    border: 1px solid #0099ae;
+    border: 1px solid #ff3737;
     font-family: 'book antiqua', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
@@ -101,8 +101,8 @@
     outline: none;
     background: none;
     box-shadow: none;
-    color: #01707f;
-    border-color:#01707f;
+    color: #C03035;
+    border-color:#C03035;
   }
 
   .align-right{
@@ -182,7 +182,7 @@
 }
 
 .search i{
-  color: #00aeef;
+  color: #ff3737;
   cursor: pointer;
   position: absolute;
   right: 10px;
@@ -204,7 +204,7 @@
   color: #818285;
   font-weight: 300;
   outline: none;
-  border: 1px solid #00aeef;
+  border: 1px solid #ff3737;
   margin-top: 20px;
   border-radius: 4px;
 }
@@ -316,7 +316,7 @@ ul.sub-menu {
 }
 
 #header .navbar-nav li ul.sub-menu li .active{
-  background: #00aeef;
+  background: #ff3737;
   color: #fff;
   position: relative;
 }
@@ -338,7 +338,7 @@ ul.sub-menu {
 
 #header .navbar-nav li ul.sub-menu li a:hover,
 #header .navbar-nav li ul.sub-menu li a:focus{
-  background: #00aeef;
+  background: #ff3737;
   color: #fff;
 }
 
@@ -634,7 +634,7 @@ ul.sub-menu {
   font-size: 48px;
   height: 48px;
   line-height: 48px;
-  color: #00aeef;
+  color: #ff3737;
   position: absolute;
   left: 50%;
   margin-left: -24px;
@@ -909,7 +909,7 @@ ul.sub-menu {
 
 .count h1{
   font-size: 60px;
-  color: #00aeef;
+  color: #ff3737;
 }
 
 .count h3{
@@ -953,7 +953,7 @@ h3.top-zero{
 }
 
 .progress-bar.progress-bar-primary{
-  background: #00aeef;
+  background: #ff3737;
 }
 
 
@@ -1247,19 +1247,19 @@ Portfolio with right sidebar
 .categories .navbar-stacked li a:hover{
   background: none;
   margin-left: 20px;
-  color: #0099AE;
+  color: #ff3737;
   opacity: 1;
 }
 
 .categories .navbar-stacked li.active a{
-  color: #0099AE;
+  color: #ff3737;
   padding-left: 20px;
 }
 
 .categories .navbar-stacked li.active a:before{
   position: absolute;
   content: "";
-  border-color: transparent transparent transparent #0099AE;
+  border-color: transparent transparent transparent #ff3737;
   border-width: 8px;
   border-style: solid;
   left: 0;
@@ -1305,7 +1305,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover{
-  border-left: 2px solid #0099AE;
+  border-left: 2px solid #ff3737;
   padding-left: 5px;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1314,7 +1314,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover.media .media-body h4 a{
-  color: #0099AE;
+  color: #ff3737;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -webkit-transition: all 0.3s ease 0s;
@@ -1356,7 +1356,7 @@ Portfolio with right sidebar
 }
 
 .tag-cloud .nav-pills li a:hover{
-  background: #0099AE;
+  background: #ff3737;
 }
 
 .popular ul.gallery {
@@ -1647,16 +1647,16 @@ Blog Default
 .post-content  .post-author a{
   font-weight: 300;
   font-size: 14px;
-  color: #0099AE;
+  color: #ff3737;
 }
 
 a.read-more{
-  color: #0099AE;
+  color: #ff3737;
   font-weight: 300;
 }
 
 a.read-more:hover{
-  color: #01707F
+  color: #C03035
 }
 
 .post-bottom{
@@ -1719,13 +1719,13 @@ Blog with right sidebar
 }
 
 .post-nav li a{
-  color: #0099AE;
+  color: #ff3737;
   padding: 0;
   text-align: left;
 }
 
 .post-nav li a i{
-  color: #0099AE;
+  color: #ff3737;
   margin-right: 8px;
 }
 
@@ -1852,7 +1852,7 @@ span.stButton_gradient,
 
 .author-profile .col-sm-2 img{
   width: 100%;
-  border-left: 3px solid #0099AE;
+  border-left: 3px solid #ff3737;
 }
 
 .author-profile h3{
@@ -1888,7 +1888,7 @@ span.stButton_gradient,
 
 .post-comment .pull-left img{
   margin-right: 60px;
-  border-left: 3px solid #0884d5;
+  border-left: 3px solid #ff3737;
 }
 
 .post-comment .media-body{
@@ -1966,7 +1966,7 @@ span.stButton_gradient,
 }
 
 #map-section address a:hover {
-  color:#00AEEF
+  color:#ff3737
 }
 
 #contact-form #message{
@@ -2634,7 +2634,7 @@ span.stButton_gradient,
   background-color: transparent;
   height: 52px;
   color: #fff;
-  border:2px solid #00aeef;
+  border:2px solid #ff3737;
 }
 
 #newsletter {
