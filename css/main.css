@@ -32,7 +32,7 @@
   a:hover {
     outline: none;
     text-decoration:none;
-    color:#ff3737;
+    color:#e23636;
   }
 
   a:focus {
@@ -80,8 +80,8 @@
 
   .btn-common {
     font-size: 14px;
-    color: #ff3737;
-    border: 1px solid #ff3737;
+    color: #e23636;
+    border: 1px solid #e23636;
     font-family: 'book antiqua', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
@@ -182,7 +182,7 @@
 }
 
 .search i{
-  color: #ff3737;
+  color: #e23636;
   cursor: pointer;
   position: absolute;
   right: 10px;
@@ -204,7 +204,7 @@
   color: #818285;
   font-weight: 300;
   outline: none;
-  border: 1px solid #ff3737;
+  border: 1px solid #e23636;
   margin-top: 20px;
   border-radius: 4px;
 }
@@ -226,23 +226,23 @@
 }
 
 .social-icons ul li a:hover .fa-facebook {
-  color:#ff3737;
+  color:#e23636;
 }
 
 .social-icons ul li a:hover .fa-behance-square {
-  color:#ff3737;
+  color:#e23636;
 }
 
 .social-icons ul li a:hover .fa-instagram {
-  color:#ff3737;
+  color:#e23636;
 }
 
 .social-icons ul li a:hover .fa-vimeo-square {
-  color:#ff3737;
+  color:#e23636;
 }
 
 .social-icons ul li a:hover .fa-linkedin-square {
-  color:#ff3737;
+  color:#e23636;
 }
 
 .social-icons ul li a:hover,
@@ -290,11 +290,11 @@
 .navbar-inverse .navbar-nav > .open > a {
   background-color: inherit;
   border: 0;
-  color: #ff3737;
+  color: #e23636;
 }
 
 #header .navbar-inverse .navbar-nav  li a:hover{
-  color: #ff3737;
+  color: #e23636;
 }
 
 
@@ -316,7 +316,7 @@ ul.sub-menu {
 }
 
 #header .navbar-nav li ul.sub-menu li .active{
-  background: #ff3737;
+  background: #e23636;
   color: #fff;
   position: relative;
 }
@@ -338,7 +338,7 @@ ul.sub-menu {
 
 #header .navbar-nav li ul.sub-menu li a:hover,
 #header .navbar-nav li ul.sub-menu li a:focus{
-  background: #ff3737;
+  background: #e23636;
   color: #fff;
 }
 
@@ -634,7 +634,7 @@ ul.sub-menu {
   font-size: 48px;
   height: 48px;
   line-height: 48px;
-  color: #ff3737;
+  color: #e23636;
   position: absolute;
   left: 50%;
   margin-left: -24px;
@@ -858,7 +858,7 @@ ul.sub-menu {
 }
 
 .social-profile .nav-pills li a:hover {
-  color: #ff3737;
+  color: #e23636;
   border-color: #702340;
 }
 
@@ -909,7 +909,7 @@ ul.sub-menu {
 
 .count h1{
   font-size: 60px;
-  color: #ff3737;
+  color: #e23636;
 }
 
 .count h3{
@@ -953,7 +953,7 @@ h3.top-zero{
 }
 
 .progress-bar.progress-bar-primary{
-  background: #ff3737;
+  background: #e23636;
 }
 
 
@@ -1073,7 +1073,7 @@ ul.elements li > i{
 }
 
 .portfolio-view .nav-pills li a:hover {
-  color: #ff3737;
+  color: #e23636;
   border-color: #702340;
   -webkit-transition: all 0.9s ease;
   transition: all 0.9s ease;
@@ -1247,19 +1247,19 @@ Portfolio with right sidebar
 .categories .navbar-stacked li a:hover{
   background: none;
   margin-left: 20px;
-  color: #ff3737;
+  color: #e23636;
   opacity: 1;
 }
 
 .categories .navbar-stacked li.active a{
-  color: #ff3737;
+  color: #e23636;
   padding-left: 20px;
 }
 
 .categories .navbar-stacked li.active a:before{
   position: absolute;
   content: "";
-  border-color: transparent transparent transparent #ff3737;
+  border-color: transparent transparent transparent #e23636;
   border-width: 8px;
   border-style: solid;
   left: 0;
@@ -1305,7 +1305,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover{
-  border-left: 2px solid #ff3737;
+  border-left: 2px solid #e23636;
   padding-left: 5px;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1314,7 +1314,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover.media .media-body h4 a{
-  color: #ff3737;
+  color: #e23636;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -webkit-transition: all 0.3s ease 0s;
@@ -1356,7 +1356,7 @@ Portfolio with right sidebar
 }
 
 .tag-cloud .nav-pills li a:hover{
-  background: #ff3737;
+  background: #e23636;
 }
 
 .popular ul.gallery {
@@ -1497,7 +1497,7 @@ Blog Default
 
 .single-blog.timeline {
   background: #FFFFFF;
-  border: 1px solid #ff3737;
+  border: 1px solid #e23636;
   border-bottom: 0;
   position: relative;
   padding-bottom: 0;
@@ -1550,7 +1550,7 @@ Blog Default
   border-style: solid;
   border-width: 60px;
   content: "";
-  border-color: transparent transparent #ff3737 transparent;
+  border-color: transparent transparent #e23636 transparent;
   z-index: -1;
   cursor: initial;
 }
@@ -1581,7 +1581,7 @@ Blog Default
   border-left-style: solid;
   border-left-width: 1px;
   height: 100%;
-  border-left-color: #ff3737;
+  border-left-color: #e23636;
   left: 50%;
   margin-left: -2px;
 }
@@ -1647,11 +1647,11 @@ Blog Default
 .post-content  .post-author a{
   font-weight: 300;
   font-size: 14px;
-  color: #ff3737;
+  color: #e23636;
 }
 
 a.read-more{
-  color: #ff3737;
+  color: #e23636;
   font-weight: 300;
 }
 
@@ -1719,13 +1719,13 @@ Blog with right sidebar
 }
 
 .post-nav li a{
-  color: #ff3737;
+  color: #e23636;
   padding: 0;
   text-align: left;
 }
 
 .post-nav li a i{
-  color: #ff3737;
+  color: #e23636;
   margin-right: 8px;
 }
 
@@ -1852,7 +1852,7 @@ span.stButton_gradient,
 
 .author-profile .col-sm-2 img{
   width: 100%;
-  border-left: 3px solid #ff3737;
+  border-left: 3px solid #e23636;
 }
 
 .author-profile h3{
@@ -1888,7 +1888,7 @@ span.stButton_gradient,
 
 .post-comment .pull-left img{
   margin-right: 60px;
-  border-left: 3px solid #ff3737;
+  border-left: 3px solid #e23636;
 }
 
 .post-comment .media-body{
@@ -1966,7 +1966,7 @@ span.stButton_gradient,
 }
 
 #map-section address a:hover {
-  color:#ff3737
+  color:#e23636
 }
 
 #contact-form #message{
@@ -2634,7 +2634,7 @@ span.stButton_gradient,
   background-color: transparent;
   height: 52px;
   color: #fff;
-  border:2px solid #ff3737;
+  border:2px solid #e23636;
 }
 
 #newsletter {
