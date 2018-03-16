@@ -26,13 +26,13 @@
 
 
   a{
-    color:#C03035;
+    color:#e23636;
   }
 
   a:hover {
     outline: none;
     text-decoration:none;
-    color:#e23636;
+    color:#ff8484;
   }
 
   a:focus {
@@ -47,7 +47,12 @@
     transition: 300ms;
   }
 
-
+A.class1 {color: #ffffff;}
+A.class1:link  {text-decoration: none; color: #ffffff;}
+A.class1:visited {text-decoration: none; color: #ffe0e0;}
+A.class1:hover {text-decoration: none; color: #ffe0e0;}
+A.class1:active {text-decoration: none; color: #ffffff;}
+  
   ul {
     list-style: none;
   }
@@ -80,7 +85,7 @@
 
   .btn-common {
     font-size: 14px;
-    color: #e23636;
+    color: #ffffff;
     border: 1px solid #e23636;
     font-family: 'book antiqua', sans-serif;
     font-weight: 300;
@@ -101,8 +106,9 @@
     outline: none;
     background: none;
     box-shadow: none;
-    color: #C03035;
+    color: #ffafaf;
     border-color:#C03035;
+	
   }
 
   .align-right{
